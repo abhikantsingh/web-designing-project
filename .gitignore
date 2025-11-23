@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Node (if you use node tooling)
+node_modules/
+npm-debug.log
+
+# VSCode
+.vscode/
+
+# build outputs
+dist/
+build/
